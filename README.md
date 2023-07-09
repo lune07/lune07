@@ -17,4 +17,5 @@ I am currently a third-year B.Tech student majoring in Computer Science and Engi
 I am deeply motivated to apply my knowledge and skills in this domain to tackle real-world challenges and make a meaningful impact. 
 I am actively seeking a ML/AI position where I can further enhance my expertise through continuous learning and hands-on experience with collaborative projects. 
 I am enthusiastic about contributing to the success of the organization by driving innovation and staying updated with the latest advancements in the field of ML/AI
+
 Thanks for reading!
