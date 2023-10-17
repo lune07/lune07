@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **lune07/lune07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +29,3 @@ Here are some ideas to get you started:
 - Online Profiles: You can connect with me on>>
 LinkedIn: https://www.linkedin.com/in/archita-409603203/
 
-Thanks for reading!
