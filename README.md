@@ -1,20 +1,7 @@
 
-<!--
-**lune07/lune07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ #Profile Summary:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on learning languages
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate on (dont really know where to start)
-- 🤔 I’m looking for help with what to learn in order to learn about arificial intelligence.
-- 📫 How to reach me: blswnita70@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: like anime,games,kdrams/kpop,any type of sports,photography
--->
- Profile Summary:
-
-- About Me: I'm a dedicated third-year B.Tech student majoring in Computer Science and Engineering, and my academic journey is enriched by my strong passion for Artificial Intelligence and Machine Learning.
+- #About Me: I'm a dedicated third-year B.Tech student majoring in Computer Science and Engineering, and my academic journey is enriched by my strong passion for Artificial Intelligence and Machine Learning.
 
 - Project Enthusiast: I thrive on the challenges of real-world problems and have actively engaged in various AI and ML projects during my academic pursuits.
 
