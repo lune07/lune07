@@ -1,5 +1,5 @@
 
- #Profile Summary:
+ #Profile Summary:#
 
 - #About Me: I'm a dedicated third-year B.Tech student majoring in Computer Science and Engineering, and my academic journey is enriched by my strong passion for Artificial Intelligence and Machine Learning.
 
