@@ -7,9 +7,9 @@
 
 - **Continuous Learning:** My commitment to learning is unwavering. I'm determined to keep enhancing my expertise in AI and ML through a combination of academic study and hands-on project work.
 
-- **Innovation Driver:** I firmly believe in the power of innovation. I see it as a key driver for success in the field of ML/AI and am enthusiastic about contributing to cutting-edge advancements.
+- **Innovation Driver:** I firmly believe in the power of innovation. I see it as a key driver for success in the field of ML/AI and enthusiastic about contributing to cutting-edge advancements.
 
-- **Team Player:** I've developed strong collaborative skills and value teamwork. In a field as dynamic as ML/AI, the ability to work together is crucial for success.
+- **Cross-Functional:** I've developed strong collaborative skills and value collaboration. In a field as dynamic as ML/AI, the ability to work together is crucial for success.
 
 - **Tech Enthusiast:** Beyond the academic world, I'm a technology enthusiast who enjoys staying updated with the latest trends and developments in AI/ML and the broader tech industry.
 
