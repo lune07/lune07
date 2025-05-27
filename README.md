@@ -8,6 +8,6 @@ Training models and myself — in that order.
 Obsessed with patterns, driven by purpose.
 
 🚧 Currently building smart things with sharper code.
-🔗 LinkedIn | 💻 GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/archita-409603203/ 
 
 
