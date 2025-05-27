@@ -1,18 +1,13 @@
 
  **Profile Summary:**
 
-- **About Me:** I'm a dedicated third-year B.Tech student majoring in Computer Science and Engineering, and my academic journey is enriched by my strong passion for Artificial Intelligence and Machine Learning.
+**🚀 Archita | AI Explorer • Code Artist • Innovation Enthusiast** 
+Turning coffee & curiosity into intelligent systems.
+Engineer by degree, innovator by instinct.
+Training models and myself — in that order.
+Obsessed with patterns, driven by purpose.
 
-- **Project Enthusiast:** I thrive on the challenges of real-world problems and have actively engaged in various AI and ML projects during my academic pursuits.
+🚧 Currently building smart things with sharper code.
+🔗 LinkedIn | 💻 GitHub
 
-- **Continuous Learning:** My commitment to learning is unwavering. I'm determined to keep enhancing my expertise in AI and ML through a combination of academic study and hands-on project work.
-
-- **Innovation Driver:** I firmly believe in the power of innovation. I see it as a key driver for success in the field of ML/AI and enthusiastic about contributing to cutting-edge advancements.
-
-- **Cross-Functional:** I've developed strong collaborative skills and value collaboration. In a field as dynamic as ML/AI, the ability to work together is crucial for success.
-
-- **Tech Enthusiast:** Beyond the academic world, I'm a technology enthusiast who enjoys staying updated with the latest trends and developments in AI/ML and the broader tech industry.
-
-- **Online Profile:**
-LinkedIn: https://www.linkedin.com/in/archita-409603203/
 
